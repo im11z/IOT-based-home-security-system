@@ -1,0 +1,7 @@
+.env
+*.log
+*.exe
+*.tmp
+.vSCode/
+.idea/
+__pycache__/
