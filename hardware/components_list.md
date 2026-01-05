@@ -1,0 +1,12 @@
+## Components Used
+- Arduino Uno
+- ESP8266 WiFi Module
+- Gas Sensor (MQ/TGS)
+- LM35 Temperature Sensor
+- LDR
+- IR Sensor
+- LCD 16x2
+- IC 555 Timer
+- LM324 Op-Amp
+- LM567 Tone Decoder
+- Power Supply
