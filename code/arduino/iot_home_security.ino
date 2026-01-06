@@ -11,8 +11,8 @@ SoftwareSerial esp12(2,3); // RX, TX
 #define SMOKE   10 
 #define IR      
 11 
-char ssid[] = "Magni5"; 
-char pass[] = "JHK5@magni5"; 
+char ssid[] = "wifiname"; 
+char pass[] = "wifipswd"; 
 String ir,smoke,fire,ldr; 
 #define EspSerial Serial 
 #define ESP8266_BAUD 115200 
